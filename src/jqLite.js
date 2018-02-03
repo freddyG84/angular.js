@@ -28,7 +28,7 @@
  * @kind function
  *
  * @description
- * Wraps a raw DOM element or HTML string as a [jQuery](http://jquery.com) element.
+ * Wraps a raw DOM element or HTML strng as a [jQuery](http://jquery.com) element.
  *
  * If jQuery is available, `angular.element` is an alias for the
  * [jQuery](http://api.jquery.com/jQuery/) function. If jQuery is not available, `angular.element`
